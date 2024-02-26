@@ -18,3 +18,7 @@ The process of restoring an image from white noise.
 <p align = 'center'>
 <img src = img/infer_result1.png width = "600" height = "150" />
 </p>
+<p align = 'center'>
+<img src = img/infer_result2.png width = "600" height = "150" />
+</p>
+Due to the inherent blurriness of the training set, the generated images are not very clear.
